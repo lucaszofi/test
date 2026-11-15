@@ -1,2 +1,2 @@
 # test
-This is my first repository., for assignment 1
+This is my first repository, with a onflict resolved.
