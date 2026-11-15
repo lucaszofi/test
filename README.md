@@ -1,2 +1,2 @@
 # test
-This is my first repository, for conflict
+This is my first repository, with a onflict resolved.
